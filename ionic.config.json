@@ -1,0 +1,7 @@
+{
+  "name": "Individual-Maha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
