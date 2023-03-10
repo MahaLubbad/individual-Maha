@@ -1,0 +1,29 @@
+.score-section {
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .question-text {
+        padding: 20px;
+        margin: auto;
+        text-align: center;
+        font-size: 30px;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    .btn{
+        margin: 25px;
+        font-size: 20px;
+    }
+    
+    .question-count{
+        text-align: center;
+        font-size: large;
+        margin: 40px 20px 20px;
+        font-size:xx-large
+        ;
+    }
